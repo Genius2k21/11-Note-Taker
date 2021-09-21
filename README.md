@@ -11,7 +11,7 @@ This simple note taking application allows you to save notes with a title and pl
 Clone the repository to your local development environment.
 
 ```
-git clone https://github.com/amandalatkins/note-taker.git
+git clone
 ```
 
 Navigate to the developer-profile-generator folder using the command prompt.

@@ -16,13 +16,14 @@ git clone
 
 Navigate to the developer-profile-generator folder using the command prompt.
 
-Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. The Note Taker app is https://notetaker2k21.herokuapp.com/notes) for you to use as well.
+Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. The Note Taker app is [Note Taker App]https://notetaker2k21.herokuapp.com/notes) for you to use as well.
 
 ## Preview:
-![Application Preview](demo.gif)
+
+![notetaker](https://user-images.githubusercontent.com/85536828/134100856-c0c45aa3-39a9-475e-beaf-dd2de8f3161a.JPG)
 
 ## Deployed Link:
-[Note Taker App](https://whispering-woodland-84908.herokuapp.com/)
+[Note Taker App]( https://notetaker2k21.herokuapp.com/notes)
 
 ## Learning Points:
 * This app was a practice in writing the backend code only and then integrating it with provided front end code (index.html, notes.html, and custom jQuery)

@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Summary
-This simple note taking application allows you to save notes with a title and plain text. Powered by ExpressJS, the Note Taker app makes creating, viewing, and deleting notes a cinch!
+This app is designed to simply take notes. It allows you to save notes along with a title and plain text. It is powered by Express JS. The Note Taker App allows you to create, view and delete notes with ease. 
 
 ## Prerequisites
 * [NodeJS](https://nodejs.org/)
@@ -26,8 +26,8 @@ Run `npm install` to install all dependencies. To use the application locally, r
 [Note Taker App](https://notetaker2k21.herokuapp.com)
 
 ## Learning Points:
-* This app was a practice in writing the backend code only and then integrating it with provided front end code (index.html, notes.html, and custom jQuery)
-* Practice setting up an Express server and in particular learning the importance of using the express.static() function to ensure proper delivery of local js/css files used by html files being delivered via .sendFile();
+* This app was to demonstrate how to write backend code and integreate it with the given front end code (index.html, notes.html, and custom jQuery)
+* This app especially helped in seeting up an Express server and implement express.static function to ensure proper delivery of local js/css filed used by html files that are delivered using .sendFile();
 
 
 ## Code Snippets

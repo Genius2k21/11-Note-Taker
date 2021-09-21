@@ -128,11 +128,6 @@ module.exports = app => {
 * Node Packages:
     * [Express](https://www.npmjs.com/package/express)
 
-## Authors
-Amanda Atkins
-* [Portfolio](https://digitalrainstorm.com/)
-* [GitHub](https://github.com/amandalatkins)
-* [LinkedIn](https://www.linkedin.com/in/amandalatkins)
 
 ## License
 This project is licensed under the ISC License.
